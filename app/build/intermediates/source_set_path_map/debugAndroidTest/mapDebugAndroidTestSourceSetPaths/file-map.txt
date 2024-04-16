@@ -1,0 +1,6 @@
+com.example.group3signup.test.app-androidTest-0 C:\2nd Year\2nd Semester\APPDev\group3signup\app\build\generated\res\resValues\androidTest\debug
+com.example.group3signup.test.app-mergeDebugAndroidTestResources-1 C:\2nd Year\2nd Semester\APPDev\group3signup\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.group3signup.test.app-mergeDebugAndroidTestResources-2 C:\2nd Year\2nd Semester\APPDev\group3signup\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.group3signup.test.app-debugAndroidTest-3 C:\2nd Year\2nd Semester\APPDev\group3signup\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.example.group3signup.test.app-annotation-experimental-1.3.0-4 C:\Users\Jiriel\.gradle\caches\transforms-3\03b73fba545a727948f0224975a3caeb\transformed\annotation-experimental-1.3.0\res
+com.example.group3signup.test.app-core-1.5.0-5 C:\Users\Jiriel\.gradle\caches\transforms-3\6ec918625f3f1981d83810381a35a75c\transformed\core-1.5.0\res

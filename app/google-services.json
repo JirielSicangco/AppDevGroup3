@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775832950706",
+    "project_id": "group3signup",
+    "storage_bucket": "group3signup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775832950706:android:202123ce3e5a8e197eb6ab",
+        "android_client_info": {
+          "package_name": "com.example.group3signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo2K509LRZk8IL3nvxccgJZWlDmNBMLnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
